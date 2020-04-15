@@ -6,4 +6,4 @@ Painting Board made with Vanilla JS
 3. 마우스 드래그
 4. 페인트모드 및 채우기모드 지원
 ------------
-[사용하기](https://seungminkim1.github.com/paintJS)
+[사용하기](https://seungminkim1.github.io/paintJS/.)
